@@ -53,7 +53,7 @@ To run the notebook, use a Jupyter environment or Google Colab. Make sure to exe
 
 ### Input Images
 
-Specify the content and style images in the notebook. The content image represents the subject, and the style image provides the artistic style.
+Specified the content and style images in the notebook. The content image represents the subject, and the style image provides the artistic style.
 
 ### Visualizing Input
 
