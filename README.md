@@ -20,8 +20,6 @@ This notebook implements neural style transfer using TensorFlow, allowing users 
     - [Adjusting Parameters](#adjusting-parameters)
     - [Handling Different Images](#handling-different-images)
 5. [Limitations and Potential Improvements](#limitations-and-potential-improvements)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 
